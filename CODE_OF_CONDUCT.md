@@ -34,7 +34,7 @@ If you have experienced or witnessed behavior that violates this
 Code of Conduct, please complete the form below to
 make a report.
 
-**REPORTING FORM:** https://numfocus.typeform.com/to/ynjGdT
+**REPORTING FORM:** https://forms.monday.com/forms/f130e8cddb99568fa86cf077b8912a60?r=use1
 
 Reports are sent to the NumFOCUS Code of Conduct Enforcement Team
 (see below).
